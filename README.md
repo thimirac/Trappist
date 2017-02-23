@@ -14,7 +14,7 @@ Node.js
 
 ## Authors
 
-* **Thimira Darshana Upatissa** -  - [PurpleBooth](https://github.com/thimirac)
+* **Thimira Darshana Upatissa** -  - [Thimira Upatissa](https://github.com/thimirac)
 
 ## License
 
